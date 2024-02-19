@@ -22,7 +22,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 - Mobile-First method 
 - Semantic HTML5 markup
-- CSS custom properties
+- SCSS custom properties
 - Flexbox
 - SUIT CSS method
 
