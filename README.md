@@ -13,7 +13,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 ## Overview
 
 ### Screenshot
-![](./MyDesign-desktop.png)
+![image](https://github.com/evsta24/Social-links-profile/assets/159118157/5100f994-8f93-4913-8da6-1064b2951b04)
+
 
 ## My process
 
